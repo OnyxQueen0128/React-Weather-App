@@ -1,13 +1,13 @@
 import React from "react";
-import "./styles.css";
-import SearchEngine from "./SearchEngine";
+import "./App.css";
+import Weather from "./Weather";
 
 export default function App() {
   return (
     <div className="App">
       <div className="container">
         <h1>Weather App</h1>
-        <SearchEngine />
+        <Weather />
         <footer>
           This project was coded by{" "}
           <a
