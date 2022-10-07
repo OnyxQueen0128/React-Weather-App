@@ -5,6 +5,9 @@
   font-family: arial, sans-serif;
   padding: 16px;
 }
+.Weather a {
+  text-decoration: none;
+}
 .Weather form {
   margin-bottom: 20px;
 }
